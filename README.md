@@ -1,1 +1,1 @@
-# Komputer-Vision---Grayscale-Image
+# Komputer-Vision-(Grayscale-Image)
